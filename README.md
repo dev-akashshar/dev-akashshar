@@ -26,9 +26,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dev-akashshar&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 <img src="https://raw.githubusercontent.com/dev-akashshar/dev-akashshar/output/snake.svg" alt="Snake animation" />
 
