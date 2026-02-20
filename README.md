@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="50%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="border-radius:20px;"/>
+</p>
 <h1 align="center">Hi 👋, I'm Akash Sharma</h1>
 <h3 align="center">💻 Laravel Developer | 🔐 Telegram Bot</h3>
 
