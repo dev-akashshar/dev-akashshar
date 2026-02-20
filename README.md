@@ -31,4 +31,4 @@
 
 <img src="https://raw.githubusercontent.com/dev-akashshar/dev-akashshar/output/snake.svg" alt="Snake animation" />
 
-###
+## https://github-profile-trophy.vercel.app/?dev-akashshar=ryo-ma&no-bg=true
