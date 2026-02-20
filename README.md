@@ -29,10 +29,20 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dev-akashshar&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
+## 🚀 Top Repositories & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-akashshar&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-akashshar&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-akashshar&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dev-akashshar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-akashshar&label=Profile%20Views&color=blue&style=flat"/>
+</p>
