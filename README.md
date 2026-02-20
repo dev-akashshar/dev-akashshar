@@ -29,20 +29,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🚀 Top Repositories & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-akashshar&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-akashshar&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-akashshar&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-### 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-akashshar&label=Profile%20Views&color=blue&style=flat"/>
-</p>
