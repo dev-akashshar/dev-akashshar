@@ -29,3 +29,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+<img src="https://raw.githubusercontent.com/dev-akashshar/dev-akashshar/output/snake.svg" alt="Snake animation" />
+
+###
